@@ -4,7 +4,12 @@
     <img src="" alt="Logo" width="80" height="80">
   </a>
 
+  <h3 align="center">Maximize Your Annuity Insights: Harness the Power of Varying Interest Rates</h3>
+
   <p align="center">
+    Transforming Annuity Analysis - Where Precision Meets Efficiency
+    <br/>
+    <br/>
     <a href="https://github.com//Annuity-Valuation-With-Varying-Interest-Rates"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
